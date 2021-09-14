@@ -1,6 +1,6 @@
 class Translation(object):
-    START_TEXT = """Hello,
-This is a Telegram Rename Bot!
+    START_TEXT = """Hi,
+I am Fastest Telegram File Converter Robot!
 
 <b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
 
